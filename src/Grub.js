@@ -13,5 +13,5 @@ var Grub = function() {
 };
 
 Grub.prototype.eat = function() {
-  //
+  console.log(this.food);
 };
